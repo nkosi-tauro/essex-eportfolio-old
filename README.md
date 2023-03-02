@@ -28,7 +28,7 @@ It will contain all my projects, including some of my research, and will be used
 
 ## :eyes: View ##
 
-<!-- [Nkosilathi Tauro ePortfolio](https://nkosi-tauro.github.io/eportfolio/) -->
+[Nkosilathi Tauro ePortfolio](https://nkosi-tauro.github.io/eportfolio/)
 
 ## :memo: License ##
 
