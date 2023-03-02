@@ -11,7 +11,7 @@ entries:
   - title: "Module: Object Oriented Programming"
     entries:
       - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
-        url: comingsoon
+        url: unit1
       - title: Unit 2 - Object Oriented Analysis - Initial Steps towards Programming in Python
         url: comingsoon
       - title: Unit 3 - UML
