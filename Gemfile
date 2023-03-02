@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-gem 'sass-embedded', '~> 1.54'
+gem 'sass-embedded', '~> 1.54', :platforms => [:x64_mingw] 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
