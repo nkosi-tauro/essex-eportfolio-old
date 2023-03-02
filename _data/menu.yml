@@ -13,9 +13,9 @@ entries:
       - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
         url: unit1
       - title: Unit 2 - Object Oriented Analysis - Initial Steps towards Programming in Python
-        url: comingsoon
+        url: unit2
       - title: Unit 3 - UML
-        url: comingsoon
+        url: unit3
       - title: "Unit 4 - Applying a UML Model to a Program Implementation: UML in Practice"
         url: comingsoon
       - title: Unit 5- More on Classes
