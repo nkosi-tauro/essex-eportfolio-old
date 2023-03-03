@@ -1,12 +1,8 @@
 entries:
   - title: info
     entries:
-      - title: Email
-        url: mailto:nkosilati23@gmail.com
-      - title: LinkedIn
-        url: https://www.linkedin.com/in/nkosi-tauro/
-      - title: GitHub
-        url: https://github.com/nkosi-tauro
+      - title: About Me
+        url: about
 
   - title: "Module: Object Oriented Programming"
     entries:
