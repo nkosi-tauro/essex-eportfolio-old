@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Module Home: Object Oriented Programming."
-permalink: /oop/
+permalink: module_oop/oop/
 ---
 
 In this module, we will use the Python programming language to support the design and development of object oriented programs. The object oriented analysis and design process will be supported using the Unified Modelling Language (UML). The four major features of object oriented programs will be examined, which include abstraction, encapsulation, inheritance, and polymorphism.

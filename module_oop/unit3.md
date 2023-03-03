@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Unit 3: UML"
-permalink: /unit3/
+permalink: module_oop/unit3/
 ---
 
 ## Table of contents

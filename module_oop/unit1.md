@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm"
-permalink: /unit1/
+permalink: module_oop/unit1/
 ---
 
 ## Table of contents

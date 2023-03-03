@@ -7,7 +7,7 @@ entries:
   - title: "Module: Object Oriented Programming"
     entries:
       - title: Module Overview
-        url: oop
+        url: module_oop/oop
       - title: Reflections
         url: comingsoon
       - title: "Assignment 1: System Design"
@@ -19,15 +19,15 @@ entries:
       - title: Artefacts
         entries:
           - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
-            url: unit1
+            url: module_oop/unit1
           - title: Unit 2 - Object Oriented Analysis - Initial Steps towards Programming in Python
-            url: unit2
+            url: module_oop/unit2
           - title: Unit 3 - UML
-            url: unit3
+            url: module_oop/unit3
           - title: "Unit 4 - Applying a UML Model to a Program Implementation: UML in Practice"
-            url: unit4
+            url: module_oop/unit4
           - title: Unit 5- More on Classes
-            url: unit5
+            url: module_oop/unit5
           - title: Unit 6 - Abstract Methods and Interfaces
             url: comingsoon
           - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search

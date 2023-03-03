@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python"
-permalink: /unit2/
+permalink: module_oop/unit2/
 ---
 
 ## Python Program

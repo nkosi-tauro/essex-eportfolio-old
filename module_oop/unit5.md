@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unit 5 - More on Classes
-permalink: /unit5/
+permalink: module_oop/unit5/
 ---
 
 ## Python Program
