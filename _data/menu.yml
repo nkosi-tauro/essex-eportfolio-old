@@ -10,6 +10,8 @@ entries:
 
   - title: "Module: Object Oriented Programming"
     entries:
+      - title: Module Overview
+        url: oop
       - title: Reflections
         url: comingsoon
       - title: "Assignment 1: System Design"
