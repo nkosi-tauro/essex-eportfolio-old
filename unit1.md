@@ -4,7 +4,12 @@ title: "Unit 1 - An Introduction to Python Programming and the OO Programming Pa
 permalink: /unit1/
 ---
 
-## Article Review
+## Table of contents
+- [Article Review](#article-review)
+- [Python Program (Protected & Unprotected Variables)](#develop-a-python-program-and-apply-protected-and-unprotected-variables-within-it)
+
+
+## [Article Review](#article-review)
 - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
 - Di Silvestro, F., & Nadir, M. (2021). The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. Adult Learning, 32(4), 154-164. https://doi.org/10.1177/1045159520977735
 
@@ -30,7 +35,7 @@ Puzziferro, M. (2008). Online technologies self-efficacy and self-regulated lear
 
 ---
 
-## Develop a Python program and apply protected and unprotected variables within it.
+## [Develop a Python program and apply protected and unprotected variables within it.](#develop-a-python-program-and-apply-protected-and-unprotected-variables-within-it)
 
 ```py	
 # Protected and unprotected variables

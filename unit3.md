@@ -4,7 +4,11 @@ title: "Unit 3: UML"
 permalink: /unit3/
 ---
 
-## Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.
+## Table of contents
+- [Discussion](#discuss-which-uml-models-are-most-applicable-at-different-stages-of-the-software-development-life-cycle)
+- [State Machine Diagram](#state-machine-diagram-for-a-washing-machine)
+
+## [Discuss which UML models are most applicable at different stages of the Software Development Life Cycle.](#discuss-which-uml-models-are-most-applicable-at-different-stages-of-the-software-development-life-cycle)
 
 ---
 {: data-content="Discussion"}
@@ -28,7 +32,7 @@ Deployment Diagrams: Deployment diagrams are used in the implementation phase of
 In summary, different UML models have different applicability at different stages of the SDLC. Use case diagrams and activity diagrams are useful in the requirements gathering and design phases, while class diagrams, sequence diagrams, and state machine diagrams are useful in the design phase. Component diagrams and deployment diagrams are useful in the implementation phase.
 
 ---
-## State Machine Diagram for a washing machine
+## [State Machine Diagram for a washing machine](#state-machine-diagram-for-a-washing-machine)
 - <b>Instructions</b>: Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
 
 ![state machine](/assets/images/washing_state_machine.svg)
