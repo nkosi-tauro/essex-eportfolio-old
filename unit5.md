@@ -44,16 +44,32 @@ class ElectricCar(Car):
   def brake_car(self):
     print(f"The {self.make} AI is now braking the car")
 
-# create an instance of the ElectricCar class
-car1 = Car("Tesla", "Model S", 500, 2020)
+class PetrolCar(Car):
+  def __init__(self, make, model, range_km, year):
+    super().__init__(make, model, range_km, year)
+
+  def switch_car_on(self):
+    print(f"The {self.make} AI is now switching the car on")
+  
+  def stop_car(self):
+    print(f"The {self.make} AI is now stopping the car")
+  
+  def accelerate_car(self):
+    print(f"The {self.make} AI is now accelerating the car you have {self.range_km}km left")
+  
+  def brake_car(self):
+    print(f"The {self.make} AI is now braking the car")
+
+# create instances of the ElectricCar class
+tesla = ElectricCar("Tesla", "Model S", 500, 2020)
+ford = PetrolCar("Ford", "Ranger", 100000, 2021)
 # print the car details
-print(f"I am a {car1.make} {car1.model}, my range is {car1.range_km}km and I was made in {car1.year}")
-# switch the car on
-car1.switch_car_on()
-# accelerate the car
-car1.accelerate_car()
-# brake the car
-car1.brake_car()
-# stop the car
-car1.stop_car()
+print(f"I am a {tesla.make} {tesla.model}, my range is {tesla.range_km}km and I was made in {tesla.year}")
+print(f"I am a {ford.make} {ford.model}, my range is {ford.range_km}km and I was made in {ford.year}")
+
+for car in (tesla, ford):
+  car.switch_car_on()
+  car.accelerate_car()
+  car.brake_car()
+  car.stop_car()
 ```
