@@ -17,9 +17,9 @@ entries:
       - title: Unit 3 - UML
         url: unit3
       - title: "Unit 4 - Applying a UML Model to a Program Implementation: UML in Practice"
-        url: comingsoon
+        url: unit4
       - title: Unit 5- More on Classes
-        url: comingsoon
+        url: unit5
       - title: Unit 6 - Abstract Methods and Interfaces
         url: comingsoon
       - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search
