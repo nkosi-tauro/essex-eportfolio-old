@@ -35,7 +35,7 @@ In summary, different UML models have different applicability at different stage
 ## [State Machine Diagram for a washing machine](#state-machine-diagram-for-a-washing-machine)
 - <b>Instructions</b>: Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to design a similar model for a washing machine.
 
-![state machine](/assets/images/washing_state_machine.svg)
+![state machine](assets/images/unit3/state_machine.png)
 
 ---
 {: data-content="Figure 1: State Machine Diagram for a washing machine"}
