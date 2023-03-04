@@ -30,10 +30,10 @@ It will contain all my projects, including some of my research, and will be used
 
 [Nkosilathi Tauro ePortfolio](https://nkosi-tauro.github.io/eportfolio/)
 
-## :memo: License ##
+## 🎨 Theme ##
 
-This project is under license from Creative Commons Attribution. For more details, see the [LICENSE](LICENSE.md) file.
-More details & credits on the Template used in this project: [Template Deails](template.md)
+This project was created with [Jekyll](https://github.com/jekyll/jekyll) and uses theme [no style please](https://github.com/riggraz/no-style-please) by [riggraz](https://riggraz.dev/no-style-please/).
+
 
 Made with :heart: by <a href="https://github.com/nkosi-tauro" target="_blank">Nkosilathi Tauro</a>
 
