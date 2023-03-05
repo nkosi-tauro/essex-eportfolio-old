@@ -11,7 +11,7 @@ entries:
       - title: Reflections
         url: comingsoon
       - title: "Assignment 1: System Design"
-        url: comingsoon
+        url: module_oop/system_design/
       - title: "Assignment 2: System Implementation"
         url: comingsoon
       - title: "Assignment 3: e-Portfolio"
