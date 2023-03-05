@@ -14,7 +14,7 @@ permalink: module_oop/unit4/
 ### Class Diagram
 -Develop a class diagram using UML to support a system with basic employee-related functionality. This should include the retention of employee details and allowing an employee to book a day of annual leave
 
-![class diagram](/assets/images/emp_class.png)
+![class diagram](../assets/images/emp_class.png)
 
 ### Python Program
 - Develop the Python program to implement the class model.
