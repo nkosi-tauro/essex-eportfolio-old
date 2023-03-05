@@ -29,9 +29,9 @@ entries:
           - title: Unit 5- More on Classes
             url: module_oop/unit5
           - title: Unit 6 - Abstract Methods and Interfaces
-            url: comingsoon
+            url: module_oop/unit6
           - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search
-            url: comingsoon
+            url: module_oop/unit7
           - title: Unit 8 - Data Structures and Data Search in Practice
             url: comingsoon
           - title: Unit 9 - Packaging and Testing
