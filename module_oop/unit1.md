@@ -11,7 +11,6 @@ permalink: module_oop/unit1/
 
 ## [Article Review](#article-review)
 - Review the article by Di Silvestro & Nadir (2021). Discuss one aspect of this article which you find unexpected.
-- Di Silvestro, F., & Nadir, M. (2021). The Power of ePortfolio Development to Foster Reflective and Deeper Learning in an Online Graduate Adult Education Program. Adult Learning, 32(4), 154-164. https://doi.org/10.1177/1045159520977735
 
 ---
 {: data-content="Discussion"}
