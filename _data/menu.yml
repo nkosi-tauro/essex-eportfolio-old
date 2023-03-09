@@ -37,11 +37,11 @@ entries:
           - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search
             url: module_oop/unit7
           - title: Unit 8 - Data Structures and Data Search in Practice
-            url: comingsoon
+            url: module_oop/unit8/
           - title: Unit 9 - Packaging and Testing
-            url: comingsoon
+            url: module_oop/unit9/
           - title: Unit 10 - Testing Code in Practice
-            url: comingsoon
+            url: module_oop/unit10/
           - title: Unit 11 - Pointers, References & Memory, and Design Patterns
             url: comingsoon
           - title: Unit 12 - Working with Design Patterns to Structure Code
