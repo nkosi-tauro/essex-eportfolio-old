@@ -68,7 +68,7 @@ permalink: module_oop/unit8/
 ---
 
 ## Reflection
-In this unit, we learned about exceptions and how to handle them. We also learned about data structures and how to use them to store and search for data. We also learned about the different set operations and how they can be used to manipulate data.
+In this unit, we learned about exceptions and how to handle them, the importance of learning algorithm desing and the different set operations and how they can be used to manipulate data.
 
 With regard to python exceptions, learning about them has been very useful. Being able to handle potential errors that the end user may encounter and or trigger is a valuable skill for developers. I would much rather see this error *"Type Error: Check your input! Please input numbers only!"* than a long error message that the user may not understand especially if they are not familiar with programming e.g *"TypeError: unsupported operand type(s) for +: 'int' and 'str'"*.
 
