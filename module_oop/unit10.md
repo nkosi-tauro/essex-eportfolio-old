@@ -88,6 +88,41 @@ while True:
 
 ---
 
+## Activity 3  
+- Integrate unit tests into the code in Activity 2 to test operation of the methods.
+
+```py	
+# Import functions from unit10.py (Activity 2) to create unit tests 
+from unit10 import add, subtract, multiply, divide
+import unittest
+
+class TestUnit10(unittest.TestCase):
+    # Test the add function
+    def test_add(self):
+        self.assertEqual(add(15, 11), 26)
+    # Test the subtract function
+    def test_subtract(self):
+        self.assertEqual(subtract(34, 20), 14)
+    # Test the multiply function
+    def test_multiply(self):
+        self.assertEqual(multiply(20, 5), 100)
+    # Test the divide function
+    def test_divide(self):
+        self.assertEqual(divide(10, 5), 2)
+        # Test the divide function with a zero denominator
+        # self.assertEqual(divide(5, 0), "Error: Cannot divide by zero")
+
+if __name__ == '__main__':
+    unittest.main()
+
+```
+
+**References**:  
+Silvera, O., S.(2022) A Beginner’s Guide to Unit Tests in Python. Available from https://www.dataquest.io/blog/unit-tests-python/
+[Accessed 10 March 2022]
+
+---
+
 ## Reflection
 In this unit we tackled unit testing, using linters(pylint) and code documentation before releasing to stakeholders. 
 
