@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Collaborative Discussion 1"
+title: "Collaborative Discussion 1 (Units 1 - 3)"
 permalink: module_oop/colab1/
 ---
 
