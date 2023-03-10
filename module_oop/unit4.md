@@ -38,7 +38,7 @@ class Employee():
   
 
 # Create an instance of the Employee class
-employee1 = Employee("Nkosi", "T", "1234", 20)
+employee1 = Employee("Nkosi", "T", 1234, 20)
 # Print the employee details
 print(f"I am {employee1.name} {employee1.surname}, my employee ID is {employee1._empID} and I have {employee1._leave} days of annual leave left")
 # Book annual leave
