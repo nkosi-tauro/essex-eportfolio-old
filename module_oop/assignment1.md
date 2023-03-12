@@ -11,7 +11,7 @@ You are required to identify three operations that you wish to support in your s
 
 Running in the system back-end should be a capability that simulates the generation and collection of data attributes that represent the wider environment within which the driverless car is operating.
 
-You can view the design document here: [Design Document](/eportfolio/comingsoon)
+You can view the design document here: [Design Document](https://github.com/nkosi-tauro/oop_system/blob/master/Assignment%201%20-%20System%20Design/Design%20Proposal_%20Driverless%20Car.pdf)
 
 
 ## Learning Objectives
