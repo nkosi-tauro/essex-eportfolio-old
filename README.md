@@ -7,6 +7,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/nkosi-tauro/eportfolio?color=56BEB8">
 
+  <img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/nkosi-tauro/eportfolio/jekyll.yml?color=56BEB8">
+
 </p>
 
 
@@ -14,7 +16,6 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#eyes-view">View ePortfolio </a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/nkosi-tauro" target="_blank">Author</a>
 </p>
 
@@ -32,7 +33,7 @@ It will contain all my projects, including some of my research, and will be used
 
 ## 🎨 Theme ##
 
-This project was created with [Jekyll](https://github.com/jekyll/jekyll) and uses theme [no style please](https://github.com/riggraz/no-style-please) by [riggraz](https://riggraz.dev/no-style-please/).
+This project was created with [Jekyll](https://github.com/jekyll/jekyll) and uses the theme [no style please](https://github.com/riggraz/no-style-please) by [riggraz](https://riggraz.dev/no-style-please/).
 
 
 Made with :heart: by <a href="https://github.com/nkosi-tauro" target="_blank">Nkosilathi Tauro</a>
