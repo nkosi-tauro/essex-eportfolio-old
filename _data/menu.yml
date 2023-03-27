@@ -17,7 +17,7 @@ entries:
       - title: "Assignment 1: System Design"
         url: module_oop/system_design/
       - title: "Assignment 2: System Implementation"
-        url: comingsoon
+        url: module_oop/system_implementation/
       - title: "Assignment 3: e-Portfolio"
         url: comingsoon
       - title: Artefacts
@@ -43,7 +43,7 @@ entries:
           - title: Unit 10 - Testing Code in Practice
             url: module_oop/unit10/
           - title: Unit 11 - Pointers, References & Memory, and Design Patterns
-            url: comingsoon
+            url: module_oop/unit11/
           - title: Unit 12 - Working with Design Patterns to Structure Code
             url: comingsoon
   - title: "Module: Secure Software Development"
