@@ -11,7 +11,7 @@ entries:
       - title: Collaborative Discussion 1
         url: module_oop/colab1/
       - title: Collaborative Discussion 2
-        url: comingsoon
+        url: module_oop/colab2/
       - title: "Assignment 1: System Design"
         url: module_oop/system_design/
       - title: "Assignment 2: System Implementation"
