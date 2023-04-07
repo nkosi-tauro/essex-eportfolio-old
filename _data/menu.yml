@@ -17,7 +17,7 @@ entries:
       - title: "Assignment 2: System Implementation"
         url: module_oop/system_implementation/
       - title: "Assignment 3: e-Portfolio"
-        url: comingsoon
+        url: module_oop/reflection/
       - title: Artefacts
         entries:
           - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
