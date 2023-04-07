@@ -17,3 +17,17 @@ You can view the design document here: [Design Document](https://github.com/nkos
 ## Learning Objectives
 - Prepare UML models to support the object oriented design process.
 - Implement data search algorithms to process stored data in the most efficient approaches.
+
+## Reflection
+This was a very interesting assignment, I had to do a lot of research on the topic of driverless cars and how they work. Choosing the 3 operations was quite difficult as one will have to manage the complexities of the chosen operation, I decided to go with the following operations:
+- Traffic Signal Detection
+- Object Detection
+- Lane Detection  
+
+Designing the UML Diagrams was a bit tricky, I got confused by the difference between Activity and State Machine Diagrams (evidenced by the feedback I received from this assignment) but looking back I should have taken the time to do more research. 
+
+
+
+## UML Diagram Resources
+- [Mermaid](https://mermaid.js.org/)
+- [Sketchboard](https://sketchboard.me/)
