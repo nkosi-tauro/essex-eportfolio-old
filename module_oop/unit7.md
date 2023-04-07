@@ -11,8 +11,9 @@ permalink: module_oop/unit7/
 
 ---
 ## [Assignment](#assignment)
-This unit also inlcuded an assignment. We were tasked to present a system design proposal for a driverless car. 
-View the assignment and more details [here](/eportfolio/module_oop/system_design/)
+This unit also inlcuded an assignment. We were tasked to present a system design proposal for a driverless car.  
+
+View the assignment and its reflection [here](/eportfolio/module_oop/system_design/)
 
 ---
 ## [Activities](#activities)
