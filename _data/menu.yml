@@ -43,5 +43,5 @@ entries:
           - title: Unit 11 - Pointers, References & Memory, and Design Patterns
             url: module_oop/unit11/
           - title: Unit 12 - Working with Design Patterns to Structure Code
-            url: comingsoon
+            url: module_oop/unit12/
   - title: "Module: Secure Software Development"
