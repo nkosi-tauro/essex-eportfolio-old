@@ -8,8 +8,6 @@ entries:
     entries:
       - title: Module Overview
         url: module_oop/oop
-      - title: Reflections
-        url: comingsoon
       - title: Collaborative Discussion 1
         url: module_oop/colab1/
       - title: Collaborative Discussion 2
