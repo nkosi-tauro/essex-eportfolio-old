@@ -11,14 +11,6 @@
 
 </p>
 
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#eyes-view">View ePortfolio </a> &#xa0; | &#xa0;
-  <a href="https://github.com/nkosi-tauro" target="_blank">Author</a>
-</p>
-
 <br>
 
 ## :dart: About ##
