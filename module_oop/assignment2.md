@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Assignment Topic: A Design Proposal of Software to Support Operation of a Driverless Car"
+title: "Assignment: System Implementation"
 permalink: module_oop/system_implementation/
 ---
 
