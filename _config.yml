@@ -21,8 +21,6 @@
 title: Nkosilathi Tauro's ePortfolio
 email: nkosilati23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! I’m Nkosilathi Tauro and I'm a Developer from Cape Town, RSA. 
-  I'm a Postgraduate Student at the University of Essex. 
   This is my University of Essex ePortfolio. 
   It will contain all my projects, including some of my research, and will be used to showcase my work.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,6 +35,16 @@ theme_config:
   back_home_text: "👈Back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 sass:
   style: compressed

@@ -1,37 +1,47 @@
 entries:
   - title: info
     entries:
-      - title: Email
-        url: mailto:nkosilati23@gmail.com
-      - title: LinkedIn
-        url: https://www.linkedin.com/in/nkosi-tauro/
-      - title: GitHub
-        url: https://github.com/nkosi-tauro
+      - title: About Me
+        url: about
 
   - title: "Module: Object Oriented Programming"
     entries:
-      - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
-        url: comingsoon
-      - title: Unit 2 - Object Oriented Analysis - Initial Steps towards Programming in Python
-        url: comingsoon
-      - title: Unit 3 - UML
-        url: comingsoon
-      - title: "Unit 4 - Applying a UML Model to a Program Implementation: UML in Practice"
-        url: comingsoon
-      - title: Unit 5- More on Classes
-        url: comingsoon
-      - title: Unit 6 - Abstract Methods and Interfaces
-        url: comingsoon
-      - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search
-        url: comingsoon
-      - title: Unit 8 - Data Structures and Data Search in Practice
-        url: comingsoon
-      - title: Unit 9 - Packaging and Testing
-        url: comingsoon
-      - title: Unit 10 - Testing Code in Practice
-        url: comingsoon
-      - title: Unit 11 - Pointers, References & Memory, and Design Patterns
-        url: comingsoon
-      - title: Unit 12 - Working with Design Patterns to Structure Code
-        url: comingsoon
+      - title: Module Overview
+        url: module_oop/oop
+      - title: Collaborative Discussion 1
+        url: module_oop/colab1/
+      - title: Collaborative Discussion 2
+        url: module_oop/colab2/
+      - title: "Assignment 1: System Design"
+        url: module_oop/system_design/
+      - title: "Assignment 2: System Implementation"
+        url: module_oop/system_implementation/
+      - title: "Assignment 3: e-Portfolio"
+        url: module_oop/reflection/
+      - title: Artefacts
+        entries:
+          - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
+            url: module_oop/unit1
+          - title: Unit 2 - Object Oriented Analysis - Initial Steps towards Programming in Python
+            url: module_oop/unit2
+          - title: Unit 3 - UML
+            url: module_oop/unit3
+          - title: "Unit 4 - Applying a UML Model to a Program Implementation: UML in Practice"
+            url: module_oop/unit4
+          - title: Unit 5- More on Classes
+            url: module_oop/unit5
+          - title: Unit 6 - Abstract Methods and Interfaces
+            url: module_oop/unit6
+          - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search
+            url: module_oop/unit7
+          - title: Unit 8 - Data Structures and Data Search in Practice
+            url: module_oop/unit8/
+          - title: Unit 9 - Packaging and Testing
+            url: module_oop/unit9/
+          - title: Unit 10 - Testing Code in Practice
+            url: module_oop/unit10/
+          - title: Unit 11 - Pointers, References & Memory, and Design Patterns
+            url: module_oop/unit11/
+          - title: Unit 12 - Working with Design Patterns to Structure Code
+            url: module_oop/unit12/
   - title: "Module: Secure Software Development"

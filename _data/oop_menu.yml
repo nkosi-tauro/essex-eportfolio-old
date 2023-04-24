@@ -1,0 +1,29 @@
+entries:
+  - title: Artefacts
+    entries:
+      - title: Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm
+        url: module_oop/unit1
+      - title: Unit 2 - Object Oriented Analysis - Initial Steps towards Programming in Python
+        url: module_oop/unit2
+      - title: Unit 3 - UML
+        url: module_oop/unit3
+      - title: "Unit 4 - Applying a UML Model to a Program Implementation: UML in Practice"
+        url: module_oop/unit4
+      - title: Unit 5- More on Classes
+        url: module_oop/unit5
+      - title: Unit 6 - Abstract Methods and Interfaces
+        url: module_oop/unit6
+      - title: Unit 7 - Debugging / Error Handling, Data Structures and Data Search
+        url: module_oop/unit7
+      - title: Unit 8 - Data Structures and Data Search in Practice
+        url: module_oop/unit8/
+      - title: Unit 9 - Packaging and Testing
+        url: module_oop/unit9/
+      - title: Unit 10 - Testing Code in Practice
+        url: module_oop/unit10/
+      - title: Unit 11 - Pointers, References & Memory, and Design Patterns
+        url: comingsoon
+      - title: Unit 12 - Working with Design Patterns to Structure Code
+        url: comingsoon
+
+ 
